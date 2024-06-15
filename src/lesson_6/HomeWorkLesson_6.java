@@ -62,6 +62,7 @@ public class HomeWorkLesson_6 {
         }
 
         System.out.println("sum of elements: " + sum);
+        System.out.println("next task");
 
 
         // Создать массив оценок произвольной длины, вывести максимальную и минимальную оценку, её (их) номера.
